@@ -7,7 +7,10 @@ export default defineConfig({
   resolve: {
     alias: {
       // If your assets are in a different directory:
-      "assets": "/src/assets" 
+      "assets": "/src/assets",
+      "json": "/src/json",
+      "components": "/src/components",
+      "Rodape": "/src/components/Rodape"
     },
   },
 })

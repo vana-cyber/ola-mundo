@@ -10,7 +10,8 @@ export default defineConfig({
       "assets": "/src/assets",
       "json": "/src/json",
       "components": "/src/components",
-      "Rodape": "/src/components/Rodape"
+      "Rodape": "/src/components/Rodape",
+      "paginas": "/src/paginas"
     },
   },
 })
